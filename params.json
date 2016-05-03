@@ -1,0 +1,6 @@
+{
+  "name": "C repo",
+  "tagline": "creating all my C codes",
+  "body": "# C Codes\r\n_**creating**_ all my C codes with MinGW and MSYS in Windows\r\n_They  **can** combine them_\r\n\r\n------------------------------------------------------------------------\r\n\r\n`#include <cprograms>`    \r\n`int main (void)`    \r\n`{`     \r\n`prinf(\"Hello World\");`    \r\n`}`    \r\n* list 1\r\n+ list 2\r\n- list 3\r\n\r\n********************************************************\r\n\r\nprint asterisk \\*\r\n\r\n##OUTPUT\r\n\r\n![Results](/output.PNG?raw=true)",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
