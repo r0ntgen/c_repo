@@ -6,7 +6,7 @@ Creating all my C codes with *MinGW* and *MSYS* in **Windows**
 ###Sample code
 
 
-` #include <stdio.h>		
+` #include <stdio.h>	
 int main(void)		
 {		
 	one or more statements		
