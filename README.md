@@ -7,10 +7,14 @@ Creating all my C codes with *MinGW* and *MSYS* in **Windows**
 
 
 `#include <stdio.h>		
-int main(void)    
-{
-     one or more statements        
-}`             
+
+int main(void)			
+
+{			
+
+			one or more statements			
+	 
+	 }`             
         
 		
 ##Result         
