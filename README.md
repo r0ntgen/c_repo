@@ -6,10 +6,10 @@ Creating all my C codes with *MinGW* and *MSYS* in **Windows**
 ###Sample code
 
 
-` #include <stdio.h				
-int main(void)   			
+` #include <stdio.h>  <br>	
+int main(void)   <br>			
 {    				
-       one or more statements     					
+       one or more statements   <br>  					
        } `             
         
 ##Result         
